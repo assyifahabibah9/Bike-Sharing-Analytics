@@ -6,9 +6,9 @@ import seaborn as sns
 # Memuat dataset
 @st.cache_data 
 def load_data():
-    daily_data = pd.read_csv("day_df.csv")
-    hourly_data = pd.read_csv("hour_df.csv")
-    
+    daily_data = pd.read_csv("dashboard/day_df.csv")
+    hourly_data = pd.read_csv("dashboard/hour_df.csv")
+        
     daily_data['date'] = pd.to_datetime(daily_data['date'])
     hourly_data['date'] = pd.to_datetime(hourly_data['date'])
     
