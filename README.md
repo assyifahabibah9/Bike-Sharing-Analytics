@@ -29,7 +29,7 @@ Proyek ini menganalisis dataset **Bike Sharing** yang mencakup 731 hari data pen
 
 
 ## 📌 Overview
-Dashboard ini dirancang untuk menganalisis pola penyewaan sepeda berdasarkan berbagai faktor seperti cuaca, waktu, dan musim. Dibangun dengan Python dan Streamlit, dashboard ini menawarkan visualisasi data yang interaktif dan informatif.
+![Dashboard](https://github.com/assyifahabibah9/Bike-Sharing-Analytics/blob/0b2aa5760659dfbceac9a6b0f4a2eaba62d5edaa/Dashboard%20Overview.png)
 
 ## 🚀 Getting Started
 ### 1. Prerequisites
